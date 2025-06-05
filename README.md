@@ -4,7 +4,7 @@
 
 🔹 Master's Student in Management Science & Quantitative Methods, Computer Science @ University of Dayton  
 🔹 3+ years of experience in Data Analytics, Power Platform, and Software Development  
-🔹 Passionate about Business Intelligence, Cloud Computing, Automation, and AR/VR  
+🔹 Passionate about Business Intelligence, Cloud Computing, Automation, and AR/VR, Data Analysis  
 
 ## 🛠 Tech Stack  
 💻 **Languages:** Python, SQL, R, MATLAB, C  
@@ -26,11 +26,7 @@
 ✔ **PL-100:** Microsoft Power Platform App Maker  
 ✔ **PL-900:** Microsoft Power Platform Fundamentals  
 ✔ **Data Science Using Python**  
-
-### 🚀 **In Progress:**  
 ✔ **PL-300:** Microsoft Power BI Data Analyst  
-✔ **PL-400:** Microsoft Power Platform Developer  
-✔ **AZ-900:** Microsoft Azure Fundamentals  
 
 ## 📫 Connect with Me  
 💼 **LinkedIn:** (https://www.linkedin.com/in/prasadnikita/)  
