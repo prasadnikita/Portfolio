@@ -15,8 +15,8 @@
 📈 **Data Visualization:** Power BI, Tableau, QlikView  
 
 ## 💼 Experience  
-🔹 **IT Intern (Power BI Developer)** @ United Performance Metals (June 2024 – Present)  
-🔹 **Graduate Teaching Assistant (ACV & Programming Languages)** @ University of Dayton (January 2024 – Present)  
+🔹 **IT Intern (Power BI Developer)** @ United Performance Metals (June 2024 – May 2025)  
+🔹 **Graduate Teaching Assistant (ACV & Programming Languages)** @ University of Dayton (January 2024 – May 2025)  
 🔹 **Graduate Teaching Assistant (AI)** @ University of Dayton (May 2024 – August 2024)  
 🔹 **Freelancer Power Platform Developer** @ Linkoeos Consulting SRL (May 2023 – August 2023)  
 🔹 **Power Platform Developer** @ Dewiride Technologies Pvt Ltd (May 2023 – August 2023)  
