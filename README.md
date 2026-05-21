@@ -210,7 +210,9 @@ Validation Layer
       ↓
 Response Generation
 
-#🚀 Deployment
+---
+
+## **🚀 Deployment**
 
 ##Run Locally
 
@@ -219,12 +221,14 @@ cd portfolio-ai-ml
 npm install
 npm run dev
 
-##📬 Contact
+---
+
+## **📬 Contact**
 
 📧 Email: nikitaprasad126@gmail.com
 💼 LinkedIn: https://www.linkedin.com/in/prasadnikita
 💻 GitHub: https://github.com/prasadnikita
-
-#📄 License
+---
+**#📄 License**
 
 This project is for portfolio and educational purposes.
